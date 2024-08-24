@@ -1,3 +1,5 @@
+<img src="https://babeljs.io/img/babel.svg" height="300px" alt="Babel logo">
+
 ## Babel: Til Tarjima Vositasi
 
 ### Kirish
