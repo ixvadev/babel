@@ -1,4 +1,4 @@
-<img src="https://babeljs.io/img/babel.svg" height="300px" alt="Babel logo">
+<img src="https://babeljs.io/img/babel.svg" height="400px" alt="Babel logo">
 
 ## Babel: Til Tarjima Vositasi
 
@@ -19,4 +19,4 @@ Babel - dasturlash dunyosida mashhur bo'lgan JavaScript transpileri bo'lib, zamo
 ### O'rnatish va Ishlatish
 Babel'ni loyihangizga qo'shish juda oson:
 ```bash
-npm install --save-dev @babel/core @babel/cli @babel/preset-env
+  npm install --save-dev @babel/core @babel/cli @babel/preset-env
